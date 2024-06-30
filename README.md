@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hola! :wave:
 
-<!--
-**Sol99/Sol99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Solange Caceres, Graduada en Ingeniería en Sistemas (UTN FRLP) - **Desarrolladora - Analista funcional**.
 
-Here are some ideas to get you started:
+- :computer: Actualmente trabajando en ****
+- :telescope: Mi puesto es Ing. de datos satelital
+- :gear: Trabajo con `HTML5`, `Mysql`, `Bootstrap`, `Python`, `Node.js`, `Javascript`, `SQL`, `Linux` ,  `Docker`
+- :seedling: Aprendiendo `Angular`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center">¡No dudes en contactarme!</p>
+<p align="center">
+    <a href="#" alt="Linkedin"><img src="./assets/icons/linkedin-fill.svg"></a>
+    <a href="mailto:#" alt="Mail"><img src="./assets/icons/mail-fill.svg"></a>
+</p>
