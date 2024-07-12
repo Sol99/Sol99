@@ -10,6 +10,6 @@ Soy Solange Caceres, Graduada en Ingeniería en Sistemas (UTN FRLP) - **Desarrol
 
 <p align="center">¡No dudes en contactarme!</p>
 <p align="center">
-    <a href="#" alt="Linkedin"><img src="./assets/icons/linkedin-fill.svg"></a>
-    <a href="mailto:#" alt="Mail"><img src="./assets/icons/mail-fill.svg"></a>
+    <a href="https://www.linkedin.com/in/solangecaceres/" alt="Linkedin"><img src="./assets/icons/linkedin-fill.svg"></a>
+    <a href="mailto:caceressol@hotmail.com.ar" alt="Mail"><img src="./assets/icons/mail-fill.svg"></a>
 </p>
