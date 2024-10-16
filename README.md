@@ -2,8 +2,7 @@
 
 Soy Solange Caceres, Graduada en Ingeniería en Sistemas (UTN FRLP) - **Desarrolladora - Analista funcional**.
 
-- :computer: Actualmente trabajando en ****
-- :telescope: Mi puesto es Ing. de datos satelital
+- :computer: Actualmente me encuentro en busqueda activa de trabajo
 - :gear: Trabajo con `HTML5`, `Mysql`, `Bootstrap`, `Python`, `Node.js`, `Javascript`, `SQL`, `Linux` ,  `Docker`
 - :seedling: Aprendiendo `Angular`
 
